@@ -9,7 +9,7 @@
 
 body{
 	overflow-y: hidden;
-	scrollbar: show;
+	scrollbar: hiden;
 }
 
 
@@ -83,7 +83,7 @@ h3{
 }
 
 .logo{
-	height: 6.25em;
+	height: 6.25rem;
 }
 
 
