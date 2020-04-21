@@ -82,13 +82,8 @@ h3{
 	margin: 5% 3% 5% 0;
 }
 
-/* Title image */
-.phone-image{
-	position: absolute;
-	right: 30%;
-	transform: rotate(25deg);
-	width: 70%;
-
+.logo{
+	height: 6.25em;
 }
 
 
