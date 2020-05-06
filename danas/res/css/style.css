@@ -36,7 +36,7 @@ h3{
 
 /*Header Section*/
 #title{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(../img/home.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url(../img/home.jpg);
 	background-attachment: fixed;
 	color: #fff;
 	height: 100vh;
@@ -165,10 +165,8 @@ h3{
 		border-bottom: none;
 		font-size: 1rem;
 	}
-
-	.phone-image{
-		position: static;
-		transform: rotate(0);
+	.logo{
+		height: 2.25rem;
 	}
 
 }
