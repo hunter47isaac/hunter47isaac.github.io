@@ -129,6 +129,28 @@ h3{
 	text-align: center;
 }
 
+/*Testimonials Section */
+#testimonials{
+	/* padding: 7% 15%; */
+	text-align: center;
+	background-color: #525252;
+	color: #fff;
+
+}
+
+
+.testimonial-image{
+	width: 10%;
+	border-radius: 100%;
+	margin: 20px;
+
+}
+
+.carousel-item{
+	padding: 7% 15%;
+}
+
+
 /*Footer Section*/
 #footer{
 	padding: 7% 15%;
@@ -139,6 +161,8 @@ h3{
 .social-icon{
 	margin: 20px 10px;
 }
+
+
 
 
 
