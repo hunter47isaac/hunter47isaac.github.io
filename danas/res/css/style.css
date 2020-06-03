@@ -69,11 +69,11 @@ h3{
 .nav-link{
 	font-size: 1.4rem;
 	font-weight: 400;
-	transition: 0.2s;
+	transition: 0.4s;
 }
 
 .navig-menu:hover{
-	border-bottom: 1px solid #D9FAFF;
+	border-bottom: 1.5px solid #D9FAFF;
 	font-size: 1.1em;
 }
 
@@ -121,6 +121,12 @@ h3{
 	text-align: center;
 }
 
+.sale-cards{
+	background-color: #005792;
+	text-align: center;
+	padding: 15px 0px 30px
+}
+
 /*Cta Section */
 #cta{
 	background-color: #005792;
@@ -138,18 +144,29 @@ h3{
 
 }
 
+.carousel-item{
+	padding: 7% 15%;
+}
 
 .testimonial-image{
 	width: 10%;
 	border-radius: 100%;
 	margin: 20px;
+}
+
+
+/* Contact Section */
+#contact{
+	background-color: #005792;
+	color: #fff;
+	padding: 5% 15%;
+	text-align: center;
 
 }
 
-.carousel-item{
-	padding: 7% 15%;
+#contact .input-group-addon{
+padding: 6px 6px 0px 4px;
 }
-
 
 /*Footer Section*/
 #footer{
